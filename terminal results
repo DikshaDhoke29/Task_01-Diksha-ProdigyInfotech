@@ -1,0 +1,25 @@
+PS C:\Users\HP> python C:\Users\HP\Desktop\prodigyinfotech\Task_1_Ceasar_cypher.py
+
+**TASK 1:- CEASAR CIPHER PROGRAM**
+
+Do you Want to Encrypt or Decrypt
+e/d: e
+
+Encryption mode selected
+
+Enter the key(1 through 26) :- 4
+Enter the text to Encrypt:- hello i am diksha
+CIPHERTEXT: lippsmeqhmowle
+PS C:\Users\HP> python C:\Users\HP\Desktop\prodigyinfotech\Task_1_Ceasar_cypher.py
+
+**TASK 1:- CEASAR CIPHER PROGRAM**
+
+Do you Want to Encrypt or Decrypt
+e/d: d
+
+Decryption mode selected
+
+Enter the key(1 through 26) :- 4
+Enter the text to Decrypt:- lippsmeqhmowle
+PLAINTEXT: helloiamdiksha
+PS C:\Users\HP>
